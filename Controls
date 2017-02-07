@@ -1,0 +1,11 @@
+CONTROLS
+
+Moving
+  > Arrow Left or A
+    - Moves the Player to the Left
+  > Arrow Rigth or D
+    - Moves the Player to the Right
+  > Spacebar
+    - Jump
+  > Left Mouse Click
+    - Attack
